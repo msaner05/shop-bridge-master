@@ -1,7 +1,6 @@
 # ShopBridge
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
-https://user-images.githubusercontent.com/25388716/150687179-56d4cb30-f827-41ce-bd08-a60e685da39e.mp4
 
 ## Development server
 
